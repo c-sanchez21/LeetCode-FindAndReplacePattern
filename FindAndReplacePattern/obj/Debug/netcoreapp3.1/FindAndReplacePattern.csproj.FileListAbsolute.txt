@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\Leetcode\FindAndReplacePattern\FindAndReplacePattern\bin\Debug\netcoreapp3.1\FindAndReplacePattern.exe
+C:\Users\Z\source\repos\Git\Leetcode\FindAndReplacePattern\FindAndReplacePattern\bin\Debug\netcoreapp3.1\FindAndReplacePattern.deps.json
+C:\Users\Z\source\repos\Git\Leetcode\FindAndReplacePattern\FindAndReplacePattern\bin\Debug\netcoreapp3.1\FindAndReplacePattern.runtimeconfig.json
+C:\Users\Z\source\repos\Git\Leetcode\FindAndReplacePattern\FindAndReplacePattern\bin\Debug\netcoreapp3.1\FindAndReplacePattern.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\Leetcode\FindAndReplacePattern\FindAndReplacePattern\bin\Debug\netcoreapp3.1\FindAndReplacePattern.dll
+C:\Users\Z\source\repos\Git\Leetcode\FindAndReplacePattern\FindAndReplacePattern\bin\Debug\netcoreapp3.1\FindAndReplacePattern.pdb
+C:\Users\Z\source\repos\Git\Leetcode\FindAndReplacePattern\FindAndReplacePattern\obj\Debug\netcoreapp3.1\FindAndReplacePattern.csprojAssemblyReference.cache
+C:\Users\Z\source\repos\Git\Leetcode\FindAndReplacePattern\FindAndReplacePattern\obj\Debug\netcoreapp3.1\FindAndReplacePattern.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\Leetcode\FindAndReplacePattern\FindAndReplacePattern\obj\Debug\netcoreapp3.1\FindAndReplacePattern.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\Leetcode\FindAndReplacePattern\FindAndReplacePattern\obj\Debug\netcoreapp3.1\FindAndReplacePattern.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\Leetcode\FindAndReplacePattern\FindAndReplacePattern\obj\Debug\netcoreapp3.1\FindAndReplacePattern.dll
+C:\Users\Z\source\repos\Git\Leetcode\FindAndReplacePattern\FindAndReplacePattern\obj\Debug\netcoreapp3.1\FindAndReplacePattern.pdb
+C:\Users\Z\source\repos\Git\Leetcode\FindAndReplacePattern\FindAndReplacePattern\obj\Debug\netcoreapp3.1\FindAndReplacePattern.genruntimeconfig.cache
